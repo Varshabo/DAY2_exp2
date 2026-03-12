@@ -80,9 +80,9 @@
                 <version>3.2.1</version>
                 <configuration>
                     <archive>
-                        <maifestEntries>
+                        <manifestEntries>
                             <Main-Class>org.example.Main</Main-Class>
-                        </maifestEntries>
+                        </manifestEntries>
                     </archive>
                 </configuration>
 
